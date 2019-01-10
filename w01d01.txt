@@ -1,0 +1,41 @@
+
+#### Ruby Basics
+
+-> Ruby is a dynamic, higher order, object oriented programming language. Ruby is written with the coder in mind. 
+
+-> Ruby is a general language (contrast: R, for statistics)
+
+-> Javascript is the only programming language that can run on a browser.
+
+-> At its core, programming is all about automating repeatable tasks.
+
+
+################################
+#### How to Practice P.I.E. ####
+################################
+
+PIE: Plan Implement Evaluate
+
+### Plan ###
+-> Think about the real-world implications, e.g.,
+  - What's your desired result?
+  - What do you have? (tools? data?)
+  - It can be helpful to think of something physical
+-> Do Research
+  - Search online using keywords
+    + ruby-doc.org is your best firned (contains all defined ruby methods)
+    + Google, but keep it to the methods syntax and don't be overly verbose
+      x Put the most important words first.
+    + StackOverflow = BAD! Avoid. You don't want others solutions, you want the building blocks that will help you solve your problems. You'll also run into plagarism.
+
+### Evaluate ###
+-> Is this the best solution? 
+-> Was there a better way to get the answer? (this will make you more effecitve in the future)
+-> Before moving on, do I need to change anything?
+-> Refactor (i.e., clean up the code)
+
+Pseudocode
+- > Break big stpes into small chunks & write it out in plain English;
+  1. Specifics
+  2. Small steps
+  3. Plain English

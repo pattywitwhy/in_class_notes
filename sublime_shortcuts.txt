@@ -1,0 +1,6 @@
+sublime_shortcuts.txt
+
+cmd + ctrl + <up/down arrow>  # moves the line up or down in your code
+cmd + shift + p               # Searches something? I don't get it
+cmd + l (no highlight)        # Highlights the whole line
+cmd + c (no highlight)        # Copies the whole line

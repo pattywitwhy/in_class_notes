@@ -1,0 +1,22 @@
+tips.txt
+ -> Be curious. There's so much to learn in the world of programming.
+
+ -> It's important to have a growth mindset. I.e., when you're stuck on a problem you think "I'll figure this out eventually if I keep working at it" instead of "I don't get this and I'll never get this because I'm <bad>."
+
+ -> People generally deal with conflict in one of four ways: (1) blaming others, (2) blaming ourselves, (3) distracting ourselves, or (4) hiding.
+    - Each can help us to some extent, but in excess all end up harming us.
+
+-> When writing pseduocode, avoid using words from Ruby. You're skipping ahead to the implementation. In addition to shaping your thinking, this will also limit your ability to communicate with programmers working in other languages, or to talk to non-coders.
+
+-> Try to "break the game" when you're coding. How could you break the code? In what situations wouldn't it work?
+
+-> Always design in small steps. 
+
+-> When you can, think up multiple solutions, rather than just one.
+
+-> When printing for yourself, always use p so you get more information. Only use puts when writing to the user.
+
+-> When writing your code, CHECK OFTEN (!) so you don't end up spending hours (weeks?) of debugging later. Practice now on the small stuff so it becomes a habit for later.
+
+-> When your code isn't working, add print statements strategically to figure out where things are going wrong. Think about putting the print statements before and after the line resulting in an error.
+  - If your solution does not work, don't be afraid to go back to the planning phase.

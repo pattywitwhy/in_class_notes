@@ -1,0 +1,7 @@
+interesting_asides.txt
+
+-> Josh likes the closure programming language. Check out their documentation, which is written for vikings.
+
+-> Lisp is commonly used for AI programming, as is Google's Go (training wheels for young devs).
+
+

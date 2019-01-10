@@ -1,0 +1,20 @@
+Git code snipets
+
+-> git init                 # Connects your folder to git for tracking
+-> 
+
+
+
+
+
+
+
+##########################################
+#### How to get your code from Github ####
+##########################################
+
+1. cd to the project folder
+2. git branch to make sure you're on the right branch
+3. if you're not, create a local version of the branch you want to download
+4. git checkout -b last_name_1_last_name_2     # (this creates a branch. always make sure you're at the master to create a new branch)
+5. git pull origin last_name_1_last_name_2
