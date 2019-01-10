@@ -10,6 +10,9 @@
   - set up github repo:
     • create repo online with the same name as your local git directory
     • copy and paste the remote and push line from github
+-> git checkout <branch>    # navigates you to <branch>
+-> git checkout -b <branch> # creates <branch> and navigates you to it
+-> git pull origin <branch> --no-edit   # syncs down from Github 
 -> git clone <repos url>    #  ???
 
 
