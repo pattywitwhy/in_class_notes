@@ -20,3 +20,5 @@ tips.txt
 
 -> When your code isn't working, add print statements strategically to figure out where things are going wrong. Think about putting the print statements before and after the line resulting in an error.
   - If your solution does not work, don't be afraid to go back to the planning phase.
+
+-> Set up a blog on medium about your precense and your transition into web development. Be creative!

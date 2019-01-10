@@ -1,12 +1,24 @@
-Git code snipets
+##########################
+#### Git code snipets ####
+##########################
 
 -> git init                 # Connects your folder to git for tracking
--> 
+-> git status               # shows you changes that you made to the files in this folder (note: if this returns
+                            # untracked files, you need to tell it to track the changes)
+-> git add --all            # Tracks all of your changes
+-> git commit -m "<desc>"   # Saves your version changes with a description so you can find the right version later.
+  - set up github repo:
+    • create repo online with the same name as your local git directory
+    • copy and paste the remote and push line from github
+-> git clone <repos url>    #  ???
 
 
 
+##############
+#### Tips ####
+##############
 
-
+-> When making changes in a project's subfolder, best practice is to return to the main project folder to run the add --all and commit commands. 
 
 
 ##########################################

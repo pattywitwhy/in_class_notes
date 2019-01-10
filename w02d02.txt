@@ -1,1 +1,34 @@
 w02d02.txt
+
+-> Prefer arrays to hashes if order matters, or if all values are of the same type.
+
+-> Block variables are only accessible inside their block
+
+-> Until loops are basically the inverse of while loops.
+
+-> Avoid nested loops
+
+################
+#### Hashes ####
+################
+
+-> Prefer hashes to arrays if speed is important (hashes are faster), if it's more clear to pair values together (key/value)
+
+-> If you want to be memory conscous, use symbols for your key values (symbol format is :<symbol name>)
+
+Let's say you want to track the price, color, and weight of items at a grocery store. If you decided to do so in an array, it would look like this:
+
+red_delicious_apple = [3, "red", 0.2]
+
+The problem is that it's difficult to tell what the information means, and it'll be difficult for someone reading your code later to follow it. If you want to refernce the color later, you would need to reference red_delivious_apple[1], which also gives no clue as to what you're looking for. Contrast this with how the hash would look:
+
+red_delicious_apple = { :price => 3, :color => "red", :weight => 0.2 }
+
+It's very clear what each key/value pair represents. And, when referencing the attributes later it'll be clear what you're referencing: red_delicious_apple[:color]. Hooray!
+
+The way we just defined this hash is called "hashrocket notation", and up until Ruby 1.9 it was the only way to define a hash. But in v1.9, you can now use Javascript notation, which looks like this:
+
+red_delicious_apple = { price: 3, color: "red", weight: 0.2 }
+
+The keys are still symbols, even though the : is after the symbol name. You still reference these symbols elsewhere by putting the : first. When you use Javascript notation, you can only use symbols as keys, not other objects. 
+
