@@ -1,0 +1,3 @@
+* splat
+! bang
+< > chevrons, or wakkas

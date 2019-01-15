@@ -11,3 +11,6 @@ end
 
 def method_name(argument_variable)
 end
+
+rand(1..100)        # Generates a random number between 1 - 100
+rand(1...100)        # Generates a random number between 1 - 99
