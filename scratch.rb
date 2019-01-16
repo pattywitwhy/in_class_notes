@@ -1,4 +1,8 @@
-p [1, 2, 3].join(", ")
+
+
+100.times do
+  p rand(1..6)
+end
 
 
 
