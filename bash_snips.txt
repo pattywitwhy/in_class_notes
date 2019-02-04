@@ -8,3 +8,5 @@ cat <filename>             # prints content of file to the terminal
 
 subl .                     # open up a folder in sublime text
 
+cmd + k                    # Clears the console
+
