@@ -1,15 +1,5 @@
 # Questions for Monday 2/4
 
-1. Why is the display bad for supplier, images, and formatted price on my mini-capstone frontend? Did I json wrong? It looks like this: 
-
-```
-images  [ { "id": 1, "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cesium.jpg" }, { "id": 2, "url": "http://www.chemistrylearner.com/wp-content/uploads/2018/06/Cesium.jpg" }, { "id": 3, "url": "http://periodictable.com/Samples/055.4/s13.JPG" } ]
-
-{ "id": 2, "name": "Fireworks Fireworks Fireworks", "email": "fireworksfireworks@fireworks.edu", "phone_number": "310-555-5455" }
-
-{ "price": "$5.00", "tax": "$0.45", "total": "$5.45" }
-```
-
 
 2. How to do the bonus from w04d01: `Make it so a user can create new images for a given product`
 
