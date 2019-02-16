@@ -17,3 +17,7 @@ end
 
 def method_name(argument_variable)
 end
+
+# Miscellaneous 
+
+* The `gem install` command does not need to run in a specific folder, this downloads to your whole computer.

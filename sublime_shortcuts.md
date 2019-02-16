@@ -1,4 +1,4 @@
-# Useful Sublime Shortcuts
+# Shortcuts
 
 ## Navigation
 
@@ -31,4 +31,5 @@ Command | Action
 `er` `tab` | Adds non-printing skull tags (`<%=  %>`
 
 
-
+# Miscellaneous
+* Quick sublime text note: Sublime text cannot open large files. Because it needs to look at every character and decide whether to perform an operation on it (e.g., make it blue). So if you give it a huge file it'll crash.
