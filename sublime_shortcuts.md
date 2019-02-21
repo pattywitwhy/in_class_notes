@@ -28,7 +28,14 @@ Command | Action
 Command | Action
 ------------ | -------------
 `pe` `tab` | Adds printing skull tags (`<%=  %>`)
-`er` `tab` | Adds non-printing skull tags (`<%=  %>`
+`er` `tab` | Adds non-printing skull tags (`<%=  %>` )
+
+## HTML
+Command | Action
+------------ | -------------
+`cmd` + `shift` + `w` | Surrounds highlighted text with tags that you can fill in
+div.class + tab | creates a div with the class test
+< + tab | completes a tag
 
 
 # Miscellaneous
