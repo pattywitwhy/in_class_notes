@@ -1,4 +1,4 @@
-gist storage.txt
+# My Gists
 
 When you have similar but different objects that share many (some?) properties, create a super class that contains their shared properties. THen, create subclasses for those objects w/ the properties they do not share.
 

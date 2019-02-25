@@ -16,6 +16,7 @@ Command | Action
 `cmd` + `]` |  Shift your code to the right
 `cmd` + `[` or `]` | Shift your code to the left
 `cmd` + `click` | Add multiple cursors
+`cmd` + `c`, `cmd` + `v` | Copies current line and pastes it below
 
 ## Ruby 
 Command | Action

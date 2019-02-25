@@ -23,6 +23,6 @@ In the routes,  add a couple routes:
 
 ```
 
-## Questions for Josh
+## #askjosh
 
 1. What should you do if you create your app in the wrong directory? Okay to rm -rf right there and start fresh?
